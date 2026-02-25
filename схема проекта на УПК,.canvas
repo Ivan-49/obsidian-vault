@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"5eca038e00f8bd96","type":"text","text":"ПРОСТО СОЕДИНЕНИЕ","x":84,"y":-800,"width":250,"height":160},
+		{"id":"8249ca4ee0c7a1ef","type":"text","text":"рез","x":84,"y":-1155,"width":250,"height":60},
+		{"id":"5ec6220423c6a57c","type":"text","text":"фото","x":-1050,"y":-120,"width":250,"height":50},
+		{"id":"a4f1655b35dfcdb8","type":"text","text":"GND","x":-319,"y":-1804,"width":50,"height":400,"color":"#000000"},
+		{"id":"e2e9d61bf477fd6a","type":"text","text":"Шаговик","x":-718,"y":-2087,"width":250,"height":210},
+		{"id":"07189fc805db0d56","type":"text","text":"UNO\n#arduino \n#programming \n#projects\n#Юля_Даниова\n\n","x":-2169,"y":-1156,"width":270,"height":170},
+		{"id":"27f81172b09e8a89","type":"text","text":"5V\n","x":-1660,"y":-842,"width":50,"height":500,"color":"#ff0000"},
+		{"id":"7f6a3c358b599662","type":"text","text":"дальномер\n","x":-1439,"y":306,"width":250,"height":60},
+		{"id":"eb80a3704a07731f","type":"text","text":"лента","x":-811,"y":-1084,"width":250,"height":50},
+		{"id":"a8a6d70739e35a53","type":"text","text":"рез\n","x":-587,"y":-1426,"width":250,"height":75}
+	],
+	"edges":[
+		{"id":"76f8a6a274fcd211","fromNode":"07189fc805db0d56","fromSide":"bottom","toNode":"eb80a3704a07731f","toSide":"bottom","label":"d5 - +5v"},
+		{"id":"3ac521f531b424d1","fromNode":"07189fc805db0d56","fromSide":"right","toNode":"a4f1655b35dfcdb8","toSide":"left"},
+		{"id":"21ff297ba419baa5","fromNode":"a4f1655b35dfcdb8","fromSide":"top","toNode":"a8a6d70739e35a53","toSide":"left"},
+		{"id":"41ba52fe07ef842d","fromNode":"a8a6d70739e35a53","fromSide":"right","toNode":"eb80a3704a07731f","toSide":"left"},
+		{"id":"ac9202ed5dbbd5bb","fromNode":"07189fc805db0d56","fromSide":"right","toNode":"27f81172b09e8a89","toSide":"top"},
+		{"id":"2ff370a7b0a2a377","fromNode":"5ec6220423c6a57c","fromSide":"right","toNode":"5eca038e00f8bd96","toSide":"bottom"},
+		{"id":"0f816101ba239f0f","fromNode":"5eca038e00f8bd96","fromSide":"top","toNode":"8249ca4ee0c7a1ef","toSide":"bottom"},
+		{"id":"d0a69d265b72c5e0","fromNode":"07189fc805db0d56","fromSide":"bottom","toNode":"5eca038e00f8bd96","toSide":"left","label":"A0"},
+		{"id":"be12675608968f85","fromNode":"a4f1655b35dfcdb8","fromSide":"bottom","toNode":"5ec6220423c6a57c","toSide":"left"},
+		{"id":"9a098a4c8ea97cbf","fromNode":"8249ca4ee0c7a1ef","fromSide":"left","toNode":"27f81172b09e8a89","toSide":"bottom"},
+		{"id":"781e00d580f7460f","fromNode":"07189fc805db0d56","fromSide":"bottom","toNode":"7f6a3c358b599662","toSide":"bottom","label":"D2"},
+		{"id":"849c9e8b1bc3c9f6","fromNode":"07189fc805db0d56","fromSide":"bottom","toNode":"7f6a3c358b599662","toSide":"bottom","label":"D3"},
+		{"id":"3c213f15706ba1ac","fromNode":"a4f1655b35dfcdb8","fromSide":"right","toNode":"7f6a3c358b599662","toSide":"left"},
+		{"id":"1fbff0e8c7ede466","fromNode":"27f81172b09e8a89","fromSide":"right","toNode":"7f6a3c358b599662","toSide":"left"},
+		{"id":"e8c94d8b32641771","fromNode":"a4f1655b35dfcdb8","fromSide":"left","toNode":"e2e9d61bf477fd6a","toSide":"left"},
+		{"id":"ccb82fe0fd2ecc46","fromNode":"27f81172b09e8a89","fromSide":"left","toNode":"e2e9d61bf477fd6a","toSide":"left"},
+		{"id":"9dbc36bc703cc898","fromNode":"07189fc805db0d56","fromSide":"top","toNode":"e2e9d61bf477fd6a","toSide":"bottom","label":"D8"},
+		{"id":"a9b083da9423e8eb","fromNode":"07189fc805db0d56","fromSide":"top","toNode":"e2e9d61bf477fd6a","toSide":"right","label":"D9"},
+		{"id":"336bd806aa454499","fromNode":"07189fc805db0d56","fromSide":"top","toNode":"e2e9d61bf477fd6a","toSide":"top","label":"D10"},
+		{"id":"8d71d255a9a39bef","fromNode":"07189fc805db0d56","fromSide":"top","toNode":"e2e9d61bf477fd6a","toSide":"left","label":"D11"}
+	]
+}

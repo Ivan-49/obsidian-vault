@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "ddde8ac9e5547a76",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dcc04a623eaac4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "417fea1616ec5173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сортировка выборкой.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сортировка выборкой"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61563e9d5a02b228",
+    "type": "split",
+    "children": [
+      {
+        "id": "17cdb7a758a18ba1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b356e8f9690e20bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "72956d0cc04f1b6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "8c1e4f82c1e69829",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "917b089f4b436fb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f70b92fe94ee31d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fd1b6e68f571a00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Английский.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Английский"
+            }
+          },
+          {
+            "id": "ad8b5e25188539cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Английский.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Английский"
+            }
+          },
+          {
+            "id": "b25606af58f85e0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "62e905074e96aea0",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "graph-analysis"
+            }
+          },
+          {
+            "id": "edc56d43d7acdf39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Английский.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Английский"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 586.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "random-note:Открыть случайную заметку": false,
+      "daily-notes:Сегодняшняя заметка": false
+    }
+  },
+  "active": "417fea1616ec5173",
+  "lastOpenFiles": [
+    "сочинение родной русский или лит-ра.md",
+    "схема проекта на УПК,.canvas",
+    "ТЗ СТЕПЕ.md",
+    "УПК Проект.md",
+    "шаговый мотор arduino.md",
+    "content_type aiogram2.md",
+    "echo bot aiogram2.md",
+    "enumerate.md",
+    "join.md",
+    "len.md",
+    "numba.md",
+    "photo aiogram2.md",
+    "range.md",
+    "README.md",
+    "road map.md",
+    "split.md",
+    "основы aiogram.md",
+    "основы opencv.md",
+    "Линейный поиск.md",
+    "Задачи.md",
+    "Главная библиотека python.md",
+    "бинарный поиск.md",
+    "библиотеки для изучения.md",
+    "Без названия.md",
+    "Английский.md",
+    "Templates/Course Template.md",
+    "Templates/Book Template.md",
+    "Англи",
+    "Без названия",
+    "files/main.py",
+    "every day",
+    "ТУЦ/Templates",
+    "ТУЦ",
+    "files/Pasted image 20240422132227.png",
+    "files/Pasted image 20240418082154.png",
+    "files/GpvL88U01pU.jpg",
+    "туц туц туц/Cache/1710456902IPGIPLPIFG.jpg",
+    "туц туц туц/Education/Ежедневник/2024",
+    "туц туц туц/Education/Выполненные цели/Сортировка",
+    "туц туц туц/Education/Книги/2024",
+    "туц туц туц/Education/Книги",
+    "files/Pasted image 20240418082914.png",
+    "files/Pasted image 20240418082919.png",
+    "images/робопром/photo_2024-04-17_17-42-40.jpg",
+    "images/робопром/photo_2024-04-17_17-42-59.jpg",
+    "images/робопром/photo_2024-04-17_17-43-24.jpg",
+    "images/робопром/photo_2024-04-17_17-43-22.jpg"
+  ]
+}
