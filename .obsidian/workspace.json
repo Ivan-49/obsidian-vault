@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "every day/2026-02-27.md",
+                "file": "files/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-27"
+              "title": "README"
+            }
+          },
+          {
+            "id": "66d290c46c5d9f2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "model"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,8 +226,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "417fea1616ec5173",
+  "active": "66d290c46c5d9f2e",
   "lastOpenFiles": [
+    "Ассемблер TASM.md",
+    "model.md",
+    "files/README.md",
+    "files/Pasted image 20240422132227.png",
+    "files/Pasted image 20240418082154.png",
+    "files/GpvL88U01pU.jpg",
     "Задачи.md",
     "every day/2026-02-27.md",
     "Главная библиотека python.md",
@@ -237,18 +258,12 @@
     "README.md",
     "road map.md",
     "split.md",
-    "основы aiogram.md",
-    "основы opencv.md",
-    "Линейный поиск.md",
     "Англи",
     "Без названия",
     "files/main.py",
     "every day",
     "ТУЦ/Templates",
     "ТУЦ",
-    "files/Pasted image 20240422132227.png",
-    "files/Pasted image 20240418082154.png",
-    "files/GpvL88U01pU.jpg",
     "туц туц туц/Cache/1710456902IPGIPLPIFG.jpg",
     "туц туц туц/Education/Ежедневник/2024",
     "туц туц туц/Education/Выполненные цели/Сортировка",
