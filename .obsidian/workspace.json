@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "model.md",
+                "file": "files/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "model"
+              "title": "README"
             }
           }
         ],
@@ -228,12 +228,13 @@
   },
   "active": "66d290c46c5d9f2e",
   "lastOpenFiles": [
-    "Ассемблер TASM.md",
-    "model.md",
+    "РЕЗЮМЕ.md",
     "files/README.md",
     "files/Pasted image 20240422132227.png",
     "files/Pasted image 20240418082154.png",
     "files/GpvL88U01pU.jpg",
+    "model.md",
+    "Ассемблер TASM.md",
     "Задачи.md",
     "every day/2026-02-27.md",
     "Главная библиотека python.md",
@@ -257,7 +258,6 @@
     "range.md",
     "README.md",
     "road map.md",
-    "split.md",
     "Англи",
     "Без названия",
     "files/main.py",
