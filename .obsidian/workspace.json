@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "регистры сегментов.md",
+                "file": "Управляющие регистры.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "регистры сегментов"
+              "title": "Управляющие регистры"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "регистры сегментов.md",
+                "file": "Управляющие регистры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для регистры сегментов"
+              "title": "Обратные ссылки для Управляющие регистры"
             }
           },
           {
@@ -213,8 +213,9 @@
   },
   "active": "c8378e546ba97c9c",
   "lastOpenFiles": [
-    "model.md",
     "регистры сегментов.md",
+    "Управляющие регистры.md",
+    "model.md",
     "Ассемблер TASM.md",
     "files/README.md",
     "РЕЗЮМЕ.md",
@@ -242,7 +243,6 @@
     "numba.md",
     "photo aiogram2.md",
     "range.md",
-    "README.md",
     "Англи",
     "Без названия",
     "files/main.py",
