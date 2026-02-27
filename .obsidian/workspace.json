@@ -8,7 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8378e546ba97c9c",
+            "id": "5eb83a1fb9c44493",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "f62a61de8a0224ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asm",
+                "query": "SS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 485.500732421875
   },
   "right": {
     "id": "917b089f4b436fb2",
@@ -95,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Управляющие регистры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Управляющие регистры"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -211,12 +220,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8378e546ba97c9c",
+  "active": "5eb83a1fb9c44493",
   "lastOpenFiles": [
+    "Указатели и индексы.md",
+    "стек в ассемблере.md",
     "регистры сегментов.md",
-    "Управляющие регистры.md",
-    "model.md",
     "Ассемблер TASM.md",
+    "Управляющие регистры.md",
+    "Регистры общего назначения.md",
+    "Арифметика ассемблера.md",
+    "model.md",
     "files/README.md",
     "РЕЗЮМЕ.md",
     "files/Pasted image 20240422132227.png",
@@ -239,10 +252,6 @@
     "echo bot aiogram2.md",
     "enumerate.md",
     "join.md",
-    "len.md",
-    "numba.md",
-    "photo aiogram2.md",
-    "range.md",
     "Англи",
     "Без названия",
     "files/main.py",
