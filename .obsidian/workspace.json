@@ -81,10 +81,14 @@
             "id": "6006a36159a5f7c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           },
           {
@@ -148,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,8 +173,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,6 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +203,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для TODO"
             }
           },
           {
@@ -308,6 +312,7 @@
   },
   "active": "6006a36159a5f7c0",
   "lastOpenFiles": [
+    "Главная/Главная.md",
     "Сегменты ассемблер.md",
     "offset.md",
     "Операторы ассемблер.md",
@@ -318,8 +323,7 @@
     "Без названия.base",
     "типы команд ассемлер.md",
     "метки ассемблер.md",
-    "Задачи.md",
-    "Главная/Главная.md",
+    "TODO.md",
     "Регистры общего назначения.md",
     "Управляющие регистры.md",
     "Ассемблер TASM.md",
