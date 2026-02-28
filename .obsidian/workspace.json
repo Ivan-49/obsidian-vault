@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "near или far вызовы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "near или far вызовы"
             }
           },
           {
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "near или far вызовы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для TODO"
+              "title": "Обратные ссылки для near или far вызовы"
             }
           },
           {
@@ -312,6 +312,7 @@
   },
   "active": "6006a36159a5f7c0",
   "lastOpenFiles": [
+    "TODO.md",
     "Главная/Главная.md",
     "Сегменты ассемблер.md",
     "offset.md",
@@ -323,7 +324,6 @@
     "Без названия.base",
     "типы команд ассемлер.md",
     "метки ассемблер.md",
-    "TODO.md",
     "Регистры общего назначения.md",
     "Управляющие регистры.md",
     "Ассемблер TASM.md",
