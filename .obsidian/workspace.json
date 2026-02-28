@@ -13,22 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ассемблер TASM.md",
+                "file": "Функции Ассемблер.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ассемблер TASM"
+              "title": "Функции Ассемблер"
             }
           },
           {
             "id": "456e8dcfb047b62f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "стек в ассемблере.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "стек в ассемблере"
             }
           },
           {
@@ -37,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "every day/2026-02-28.md",
+                "file": "near или far вызовы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-28"
+              "title": "near или far вызовы"
+            }
+          },
+          {
+            "id": "4dbaf456a39b805a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Директивы ассемблер.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Директивы ассемблер"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tasm",
+                "query": "near",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.500732421875
+    "width": 200
   },
   "right": {
     "id": "917b089f4b436fb2",
@@ -120,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "near или far вызовы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +148,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для near или far вызовы"
             }
           },
           {
@@ -220,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,21 +255,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "456e8dcfb047b62f",
+  "active": "f62a61de8a0224ca",
   "lastOpenFiles": [
-    "Ассемблер TASM.md",
-    "Регистры общего назначения.md",
-    "every day/2026-02-28.md",
+    "Директивы ассемблер.md",
     "near или far вызовы.md",
+    "Ассемблер TASM.md",
+    "Модели ассемблер.md",
+    "every day/2026-02-28.md",
+    "стек в ассемблере.md",
+    "Функции Ассемблер.md",
+    "Указатели и индексы.md",
+    "УПК Проект.md",
+    "ТЗ СТЕПЕ.md",
+    "пример работы, общения между сервером и клиентом.md",
+    "Регистры общего назначения.md",
+    "Templates/Daily Template.md",
+    "road map.md",
     "8086.md",
     "Управляющие регистры.md",
     "Без названия 1.md",
     "подрегистры.md",
     "регистры сегментов.md",
-    "Указатели и индексы.md",
-    "стек в ассемблере.md",
     "Арифметика ассемблера.md",
-    "model.md",
     "files/README.md",
     "РЕЗЮМЕ.md",
     "files/Pasted image 20240422132227.png",
@@ -259,14 +286,7 @@
     "every day/2026-02-27.md",
     "Главная библиотека python.md",
     "бинарный поиск.md",
-    "библиотеки для изучения.md",
-    "Без названия.md",
-    "Сортировка выборкой.md",
-    "TECT.md",
-    "сочинение родной русский или лит-ра.md",
     "схема проекта на УПК,.canvas",
-    "ТЗ СТЕПЕ.md",
-    "УПК Проект.md",
     "Англи",
     "Без названия",
     "files/main.py",
