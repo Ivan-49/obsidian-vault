@@ -15,10 +15,24 @@
       }
     },
     {
-      "query": "tag:pro",
+      "query": "tag:#programming  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5716480
+      }
+    },
+    {
+      "query": "tag:#python  ",
+      "color": {
+        "a": 1,
+        "rgb": 9408786
+      }
+    },
+    {
+      "query": "tag:#algorithm  ",
+      "color": {
+        "a": 1,
+        "rgb": 11007
       }
     }
   ],
@@ -32,6 +46,6 @@
   "repelStrength": 8.00719424460432,
   "linkStrength": 0.291778006166495,
   "linkDistance": 70,
-  "scale": 0.2372769569456477,
+  "scale": 0.29395534974119264,
   "close": false
 }
