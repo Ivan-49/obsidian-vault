@@ -1,3 +1,10 @@
+---
+tags:
+  - python
+  - library
+  - telegrambot
+---
+
 #programming #telegrambot
 ## тут я покажу работу с фото через aiogram2
 

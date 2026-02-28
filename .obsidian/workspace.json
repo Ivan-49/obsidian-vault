@@ -55,12 +55,36 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "бинарный поиск.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "бинарный поиск"
+            }
+          },
+          {
+            "id": "d7afe480843ffb7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Главная/Главная.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Главная"
+            }
+          },
+          {
+            "id": "6006a36159a5f7c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
@@ -92,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,7 +148,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "директ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +189,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Главная/Главная.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +198,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Главная"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -262,7 +285,8 @@
               "title": "Graph Analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -281,39 +305,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4dbaf456a39b805a",
+  "active": "6006a36159a5f7c0",
   "lastOpenFiles": [
-    "бинарный поиск.md",
-    "Главная/Главная.md",
-    "Главная",
-    "Без названия 1.md",
-    "Без названия.md",
-    "Директивы ассемблер.md",
-    "Главная библиотека python.md",
-    "Без названия 2.md",
-    "near или far вызовы.md",
+    "offset.md",
+    "Операторы ассемблер.md",
+    "Строковые операции ASM.md",
+    "циклы в ассемблере.md",
+    "Прерывание.md",
+    "Без названия 1.base",
+    "Без названия.base",
     "типы команд ассемлер.md",
-    "Инструкции ассемблер.md",
-    "Ассемблер TASM.md",
-    "Модели ассемблер.md",
-    "every day/2026-02-28.md",
-    "стек в ассемблере.md",
-    "Функции Ассемблер.md",
-    "Указатели и индексы.md",
-    "УПК Проект.md",
-    "ТЗ СТЕПЕ.md",
-    "пример работы, общения между сервером и клиентом.md",
+    "метки ассемблер.md",
+    "Задачи.md",
+    "Главная/Главная.md",
     "Регистры общего назначения.md",
-    "Templates/Daily Template.md",
-    "road map.md",
-    "8086.md",
     "Управляющие регистры.md",
-    "подрегистры.md",
+    "Ассемблер TASM.md",
+    "Библиотеки python.md",
+    "основы aiogram.md",
+    "основы opencv.md",
+    "Перечень инетерсных функций openncv.md",
+    "основы soket.md",
+    "Арифметика ассемблера.md",
+    "8086.md",
     "регистры сегментов.md",
+    "работа с видео opencv.md",
+    "пример работы, общения между сервером и клиентом.md",
+    "Модели ассемблер.md",
+    "Метод скользящего окна.md",
+    "Линейный поиск.md",
+    "Инструкции ассемблер.md",
+    "схема проекта на УПК,.canvas",
+    "Главная",
     "files/Pasted image 20240422132227.png",
     "files/Pasted image 20240418082154.png",
     "files/GpvL88U01pU.jpg",
-    "схема проекта на УПК,.canvas",
     "Англи",
     "Без названия",
     "files/main.py",
@@ -322,8 +348,6 @@
     "ТУЦ",
     "туц туц туц/Cache/1710456902IPGIPLPIFG.jpg",
     "туц туц туц/Education/Ежедневник/2024",
-    "туц туц туц/Education/Выполненные цели/Сортировка",
-    "туц туц туц/Education/Книги/2024",
     "files/Pasted image 20240418082914.png",
     "files/Pasted image 20240418082919.png",
     "images/робопром/photo_2024-04-17_17-42-40.jpg",

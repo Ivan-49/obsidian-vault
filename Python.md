@@ -1,10 +1,7 @@
 ---
 tags:
   - programming
-language: python
-name_lib: main
-type of work: all
-полезность: 10/10
+  - python
 ---
 ## основная информация о библиотеке
 

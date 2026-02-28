@@ -1,3 +1,9 @@
+---
+tags:
+  - python
+  - baselibrary
+---
+
 Часто opencv используют в купе с numpy, для быстрой обработки больших массивов
 
 ```python

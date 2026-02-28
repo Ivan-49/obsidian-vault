@@ -1,6 +1,6 @@
 ---
 tags:
-  - programming
+  - arduino
 language: C++
 type of work: крутить мотор
 полезность: 10

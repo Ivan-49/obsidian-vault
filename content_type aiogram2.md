@@ -1,6 +1,8 @@
 ---
 tags:
-  - programming
+  - python
+  - algorithm
+  - telegrambot
 language: python
 name_lib: aiogram2
 type of work: telegram-bot

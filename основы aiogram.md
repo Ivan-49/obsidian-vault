@@ -1,7 +1,8 @@
 ---
 tags:
-  - programming
   - "#telegrambot"
+  - python
+  - baselibrary
 language: python
 name_lib: aiogram2
 type of work: telegram-bot

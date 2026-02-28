@@ -1,4 +1,10 @@
-#programming #telegrambot
+---
+tags:
+  - python
+  - library
+  - telegrambot
+---
+
 
 ``` python
 from aiogram import Bot, Dispetcher, types, executor
