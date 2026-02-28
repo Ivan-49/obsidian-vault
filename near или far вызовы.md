@@ -35,3 +35,25 @@ TASM генерирует call sub как [[near или far вызовы#near|ne
   ---
 ## Far 
 Far - процедура позволяет переход в другой [[Сегменты ассемблер|сегмент]]. [[Инструкции ассемблер#call|Call]] far на стек: сначала [[регистры сегментов#CS|CS]](2 байта), затем [[Операторы ассемблер#offset|offset]] (всего 4 байта). [[Инструкции ассемблер#ret|Ret]] far восстанавливает [CS:IP] по умолчанию в [[Модели ассемблер#large|large]], [[Модели ассемблер#HUGE|huge]] - far.[[Директивы ассемблер|Директива: ]] [[Директивы ассемблер#proc far|proc far]]  
+
+Пример
+```assembler
+.MODEL LARGE       ; FAR по умолчанию!
+.CODE
+main PROC FAR
+    mov ax, 1
+    call FAR PTR sub1  ; FAR вызов!
+    ret
+main ENDP
+
+sub1 PROC FAR
+    mov bx, 2
+    ret                ; FAR возврат
+sub1 ENDP
+END main
+```
+
+---
+Различия Near | Far
+|near|far|
+|----
