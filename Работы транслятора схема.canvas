@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"0fcad5e036a5086d","x":-125,"y":-30,"width":303,"height":145,"type":"text","text":"Лексичиский анализатор\n(Lexer)"},
+		{"id":"13e0d35918f4f486","x":225,"y":-29,"width":253,"height":142,"type":"text","text":"Синтаксический анализатор \n(Parser)\n"},
+		{"id":"a9137161660a1a05","x":535,"y":-24,"width":250,"height":136,"type":"text","text":"Семантический анаилзатор\n(Semantics)"},
+		{"id":"5b6e882d8246cf0b","x":-132,"y":185,"width":320,"height":117,"type":"text","text":"Таблица символов\n(Symbol Table)"},
+		{"id":"6d713a0ab54bbc42","x":220,"y":189,"width":278,"height":115,"type":"text","text":"AST дерево\n(Abstract Syntax Tree)"},
+		{"id":"d86c51b173023bd5","x":526,"y":193,"width":264,"height":106,"type":"text","text":"Генератор машинного кода\n(Code generator)"}
+	],
+	"edges":[
+		{"id":"26130c3d55e1708b","fromNode":"0fcad5e036a5086d","fromSide":"right","toNode":"13e0d35918f4f486","toSide":"left"},
+		{"id":"8e786d32a8bf113f","fromNode":"13e0d35918f4f486","fromSide":"right","toNode":"a9137161660a1a05","toSide":"left"},
+		{"id":"afbace91e78c228a","fromNode":"a9137161660a1a05","fromSide":"bottom","toNode":"d86c51b173023bd5","toSide":"top"},
+		{"id":"e8682509f310ff7d","fromNode":"13e0d35918f4f486","fromSide":"bottom","toNode":"6d713a0ab54bbc42","toSide":"top"},
+		{"id":"6c9ec99012943f9b","fromNode":"0fcad5e036a5086d","fromSide":"bottom","toNode":"5b6e882d8246cf0b","toSide":"top"},
+		{"id":"86bf0ef2cf347eee","fromNode":"6d713a0ab54bbc42","fromSide":"left","toNode":"5b6e882d8246cf0b","toSide":"right"},
+		{"id":"b78a6ef09cf47154","fromNode":"d86c51b173023bd5","fromSide":"left","toNode":"6d713a0ab54bbc42","toSide":"right"}
+	]
+}

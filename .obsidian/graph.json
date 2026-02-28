@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#assembler  ",
@@ -44,15 +44,15 @@
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -2.1,
-  "nodeSizeMultiplier": 2.23902877697842,
-  "lineSizeMultiplier": 1.4171582733813,
+  "showArrow": false,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 5,
+  "lineSizeMultiplier": 0.664532374100719,
   "collapse-forces": false,
-  "centerStrength": 0.26551901336074,
-  "repelStrength": 9.19116135662898,
-  "linkStrength": 0.742394655704008,
-  "linkDistance": 144,
-  "scale": 0.3641725212333219,
-  "close": true
+  "centerStrength": 0.0560123329907503,
+  "repelStrength": 14.2096608427544,
+  "linkStrength": 0.223689619732785,
+  "linkDistance": 30,
+  "scale": 0.03451622757985923,
+  "close": false
 }

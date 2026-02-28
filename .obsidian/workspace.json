@@ -83,86 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Арифметика ассемблера.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
-            }
-          },
-          {
-            "id": "0159cf2726376485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Смещения ассемблер.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Смещения ассемблер"
-            }
-          },
-          {
-            "id": "e47e4eb841ffb98a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ассемблер TASM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ассемблер TASM"
-            }
-          },
-          {
-            "id": "421eaafae103ab23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Директивы ассемблер.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Директивы ассемблер"
-            }
-          },
-          {
-            "id": "5c84af6a35d64c83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "типы команд ассемлер.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "типы команд ассемлер"
-            }
-          },
-          {
-            "id": "a32117064821d5cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Директивы ассемблер.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Директивы ассемблер"
+              "title": "Арифметика ассемблера"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:TODO",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,7 +145,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ассемблер TASM.md",
+                "file": "Арифметика ассемблера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +176,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Ассемблер TASM"
+              "title": "Обратные ссылки для Арифметика ассемблера"
             }
           },
           {
@@ -254,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский.md",
+                "file": "Арифметика ассемблера.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Английский"
+              "title": "Исходящие ссылки из Арифметика ассемблера"
             }
           },
           {
@@ -293,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский.md",
+                "file": "Арифметика ассемблера.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Английский"
+              "title": "Структура Арифметика ассемблера"
             }
           },
           {
@@ -337,7 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 448.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -352,37 +283,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e47e4eb841ffb98a",
+  "active": "6006a36159a5f7c0",
   "lastOpenFiles": [
-    "Работа транслятора ассемблер.md",
-    "TODO.md",
-    "Смещения ассемблер.md",
-    "Forward references.md",
-    "near или far вызовы.md",
     "Главная/Главная.md",
-    "Без названия 2.base",
-    "Директивы ассемблер.md",
+    "Арифметика ассемблера.md",
+    "Смещения ассемблер.md",
+    "Forward references ассемблер.md",
     "Сегменты ассемблер.md",
     "offset.md",
     "Операторы ассемблер.md",
     "Строковые операции ASM.md",
     "циклы в ассемблере.md",
     "Прерывание.md",
+    "метки ассемблер.md",
+    "Функции Ассемблер.md",
+    "Инструкции ассемблер.md",
+    "библиотеки для изучения.md",
+    "стек в ассемблере.md",
+    "Англи/Слова.md",
+    "TODO.md",
+    "Директивы ассемблер.md",
+    "УПК Проект.md",
+    "Работа транслятора ассемблер.md",
+    "Ассемблер TASM.md",
+    "типы команд ассемлер.md",
+    "Без названия 2.base",
     "Без названия 1.base",
     "Без названия.base",
-    "типы команд ассемлер.md",
-    "метки ассемблер.md",
+    "Работы транслятора схема.canvas",
+    "near или far вызовы.md",
+    "Расписание Универ.md",
     "Регистры общего назначения.md",
     "Управляющие регистры.md",
-    "Ассемблер TASM.md",
-    "Библиотеки python.md",
-    "основы aiogram.md",
-    "основы opencv.md",
-    "Перечень инетерсных функций openncv.md",
-    "основы soket.md",
-    "Арифметика ассемблера.md",
-    "8086.md",
-    "регистры сегментов.md",
     "схема проекта на УПК,.canvas",
     "Главная",
     "files/Pasted image 20240422132227.png",
