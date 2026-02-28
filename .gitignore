@@ -1,0 +1,13 @@
+# Obsidian временные файлы
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace-*.json
+
+# Конфликты Git
+*.base
+*.local
+*.remote
+
+# Системные
+.DS_Store
+Thumbs.db
