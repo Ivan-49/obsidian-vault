@@ -55,5 +55,6 @@ END main
 
 ---
 Различия Near | Far
-|near|far|
-|----
+
+| near | far |
+| -----:
