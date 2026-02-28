@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Директивы ассемблер.md",
+                "file": "Главная/Главная.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Директивы ассемблер"
+              "title": "Главная"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "near или far вызовы.md",
+                "file": "Главная/Главная.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для near или far вызовы"
+              "title": "Обратные ссылки для Главная"
             }
           },
           {
@@ -281,12 +281,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b356e8f9690e20bb",
+  "active": "4dbaf456a39b805a",
   "lastOpenFiles": [
+    "бинарный поиск.md",
+    "Главная/Главная.md",
+    "Главная",
+    "Без названия 1.md",
+    "Без названия.md",
+    "Директивы ассемблер.md",
+    "Главная библиотека python.md",
+    "Без названия 2.md",
+    "near или far вызовы.md",
     "типы команд ассемлер.md",
     "Инструкции ассемблер.md",
-    "Директивы ассемблер.md",
-    "near или far вызовы.md",
     "Ассемблер TASM.md",
     "Модели ассемблер.md",
     "every day/2026-02-28.md",
@@ -301,17 +308,11 @@
     "road map.md",
     "8086.md",
     "Управляющие регистры.md",
-    "Без названия 1.md",
     "подрегистры.md",
     "регистры сегментов.md",
-    "Арифметика ассемблера.md",
-    "files/README.md",
-    "РЕЗЮМЕ.md",
     "files/Pasted image 20240422132227.png",
     "files/Pasted image 20240418082154.png",
     "files/GpvL88U01pU.jpg",
-    "Задачи.md",
-    "every day/2026-02-27.md",
     "схема проекта на УПК,.canvas",
     "Англи",
     "Без названия",
@@ -323,7 +324,6 @@
     "туц туц туц/Education/Ежедневник/2024",
     "туц туц туц/Education/Выполненные цели/Сортировка",
     "туц туц туц/Education/Книги/2024",
-    "туц туц туц/Education/Книги",
     "files/Pasted image 20240418082914.png",
     "files/Pasted image 20240418082919.png",
     "images/робопром/photo_2024-04-17_17-42-40.jpg",
