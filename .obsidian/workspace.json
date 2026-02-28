@@ -309,7 +309,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 549.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -324,7 +324,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6006a36159a5f7c0",
+  "active": "4c6b503503a6b256",
   "lastOpenFiles": [
     "Директивы ассемблер.md",
     "near или far вызовы.md",
