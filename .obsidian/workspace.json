@@ -145,8 +145,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -282,7 +281,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f62a61de8a0224ca",
+  "active": "b356e8f9690e20bb",
   "lastOpenFiles": [
     "типы команд ассемлер.md",
     "Инструкции ассемблер.md",
