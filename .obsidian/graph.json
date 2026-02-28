@@ -3,10 +3,25 @@
   "search": "",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#assembler  ",
+      "color": {
+        "a": 1,
+        "rgb": 8716288
+      }
+    },
+    {
+      "query": "tag:pro",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -2.1,
@@ -17,6 +32,6 @@
   "repelStrength": 8.00719424460432,
   "linkStrength": 0.291778006166495,
   "linkDistance": 70,
-  "scale": 0.36417252123332194,
+  "scale": 0.2372769569456477,
   "close": false
 }
